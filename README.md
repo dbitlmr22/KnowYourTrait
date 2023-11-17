@@ -11,8 +11,7 @@ Web app that allows user to take a short quiz and return their personality trait
 1. Javascript
 2. CSS
 3. HTML
-4. Bootstrap
-5. JQuery
+4. Js
 
 ### Requirements
 
